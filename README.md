@@ -37,7 +37,8 @@ Inequality of opportunity  (access)  in education in the Covid-19 period in Turk
 
 
 I use TUIK's reports .Since the data is in Turkish, I translated it into English and created new tables.
-The link:
-*https://data.tuik.gov.tr/Bulten/Index?p=Hanehalki-Bilisim-Teknolojileri-(BT)-Kullanim-Arastirmasi-2020-33679*
+
+  The link:
+    *https://data.tuik.gov.tr/Bulten/Index?p=Hanehalki-Bilisim-Teknolojileri-(BT)-Kullanim-Arastirmasi-2020-33679*
 
 
