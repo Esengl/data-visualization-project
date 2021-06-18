@@ -32,5 +32,8 @@ Inequality of opportunity  (access)  in education in the Covid-19 period in Turk
 
 **Data Gathering**
 *I tried to get the data from the Turkish Statistical Institute (TUIK) and reliable institutions that have done research on this subject. While I was preparing it, I had difficulties due to the lack of data on this subject or the same and similar data. Because they also compile the data of TUIK and detail their research. I have compiled the data in two separate ways: internet access data and access data to tools such as computers and tablets.*
+I use TUIK's reports .Since the data is in Turkish, I translated it into English and created new tables.
+The link:
+*https://data.tuik.gov.tr/Bulten/Index?p=Hanehalki-Bilisim-Teknolojileri-(BT)-Kullanim-Arastirmasi-2020-33679*
 
 
